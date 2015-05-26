@@ -7,9 +7,12 @@ Setup
 0. Download/Clone this repo.
 0. Edit the main index.html to set the default solr host and core.
 
+
 Edit: index.html
 ```
 Search for "ChangeMe" to set the correct Solr URL and default core.
+```
+
 
 Example:
 --------
